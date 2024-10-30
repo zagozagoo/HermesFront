@@ -1,6 +1,5 @@
 import Bar from "../../components/Bar/Bar"
 import SideBar from "../../components/SideBar/SideBar"
-import FormUser from "../createUser/components/userForm"
 import FormSignUp from "./components/FormSignUp"
 
 export const SignUp = () => {
